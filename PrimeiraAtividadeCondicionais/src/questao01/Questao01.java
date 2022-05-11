@@ -1,3 +1,4 @@
+package questao01;
 /**
  * 
  * Crie um programa que solicite ao usuario 2 valores inteiros e imprima o maior com o seguinte formato:
@@ -8,7 +9,7 @@
 import java.util.Scanner;
 
 
-public class App {
+public class Questao01 {
 
     public static Scanner ler = new Scanner(System.in);
     public static void main(String[] args) {
